@@ -1,1 +1,1 @@
-This repository contains a simple Java program to [describe what your program does briefly, e.g., calculate something, demonstrate a concept, or solve a small problem]. It's designed for beginners who are learning Java and want to understand basic syntax, structure, and logic in Java.
+This repository contains a simple Java program to  Java program Basic to Advance in java. It's designed for beginners who are learning Java and want to understand basic syntax, structure, and logic in Java.
